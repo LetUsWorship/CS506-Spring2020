@@ -1,1 +1,3 @@
-Hello Fellow Classmates, I am having fun in this workshop!
+Hello Fellow Classmates,
+
+I finished Exercise 3.
